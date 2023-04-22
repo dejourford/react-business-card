@@ -1,0 +1,39 @@
+#img-logo {
+    max-width: 100%;
+    border-radius: 0.5em 0.5em 0em 0em;
+    aspect-ratio: 1 /1;
+}
+
+.image-wrapper {
+    width: 100%;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    gap: 1em;
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3em;
+}
+
+.buttons {
+    display: flex;
+    gap: 1em;
+}
+
+.left-button, .right-button {
+    background: red;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    color: white;
+    display: flex;
+    gap: 1em;
+}
+
+

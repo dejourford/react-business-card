@@ -1,0 +1,11 @@
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    padding: 1em;
+    background: brown;
+}
+
+.fa-twitter, .fa-facebook, .fa-instagram, .fa-github {
+    font-size: 2rem;
+}
